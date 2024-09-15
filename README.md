@@ -9,3 +9,4 @@ The algorithms that the repo consists are :
 6) Binary Trees
 7) Binary Tree - DFS and BFS.
 8) Linked List Algorithms
+9) Graphs
